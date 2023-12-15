@@ -1,4 +1,10 @@
-# Parcial andrés ivan sierra espinel
+# Parcial Ronaldo Perez Diaz
+
+Para descargar librerias
+npm install
+
+Para iniciar:
+npm start
 
 - El proyecto se esta ejecutando sobre el puerto 4000
 - Dependencias 
